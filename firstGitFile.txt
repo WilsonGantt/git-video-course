@@ -1,1 +1,1 @@
-Three way merge commit 2
+Trying to change from master
