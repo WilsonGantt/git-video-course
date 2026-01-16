@@ -1,2 +1,1 @@
-Rebase Conflict changes from master
-Reabase conflicts demo commit 1
+Changes in master by a ghost
