@@ -1,1 +1,1 @@
-Stash demo
+Squash commit 1
