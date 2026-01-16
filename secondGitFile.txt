@@ -1,1 +1,1 @@
-Changing for PR conflicts demo on conflicts branch
+Changing for PR conflicts demo
