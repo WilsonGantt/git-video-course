@@ -1,1 +1,1 @@
-interactive rebase 4 about to be dropped
+interactive rebase 6 keeping
